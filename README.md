@@ -1,6 +1,6 @@
-### Hello! My name is Audrey and I am a senior majoring in computer engineering at the University of Washington!
+### Hello, my name is Audrey and I am a recent graduate in computer engineering at the University of Washington.
 
-I’m currently learning Systems Programming in C/C++, Computer Security, and Digital Circuit Design in SystemVerilog!
+I’m currently a software engineer in the web platforms/optimization team at Unity.
 
 How to reach me: LinkedIn: www.linkedin.com/in/audreytyip
 
